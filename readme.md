@@ -14,4 +14,8 @@ Advent of Code 2022 mostly done in Julia and Python.
 
 
 * ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
-	* Day 4: [Day1 jupyter notebook](Day4/) 
+	* Day 4: [Day4 in fortran with fpm](Day4/) 
+
+
+
+
